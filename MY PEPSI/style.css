@@ -1,0 +1,170 @@
+.container-fluid{
+    position: relative;
+    bottom: 10px;
+    background-color: rgb(13, 111, 167);
+    padding-top: 15px;
+   padding-bottom: 15px;
+    padding-left: 50px!important;
+    margin-top: none!important;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center!important;
+}
+.button{
+    background-color: rgb(13, 111, 167);
+    color: white;
+    font-weight: bold;
+    /* font-style: italic; */
+    border-width: 3px;
+    border-radius: 15px;
+    border-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-bottom-color: white!important;
+    border-right-color: white!important;
+}
+/* #navbarSupportedContent{
+    padding-right: 40px;
+} */
+.nav-item{
+    padding-right: 20px;
+    padding-left: 15px;
+}
+
+
+
+
+.top{
+    position: relative;
+    bottom: 20px;
+background-image: url(https://www.pepsi.com/en-us/uploads/images/pzs-new-taste/pzs-can-nobug-tablet@2x.png);
+background-size: auto 544px;
+background-color: rgb(16, 9, 9);
+/* margin-top: none; */
+padding-top: none;
+padding-left: 600px;
+background-repeat: no-repeat;
+background-position: bottom;
+height: 467px;
+position: relative;
+
+}
+.in-top{
+    position: absolute;
+right: 450px;
+justify-content: center;
+top: 30px;
+}
+.in-top > img{
+    width: 186px;
+    right: -20px;
+    left: -503px;
+    bottom: 432px;
+}
+.in-top1{
+    /* background-color: rgb(16, 9, 9); */
+    position: absolute;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.middle{
+    position: relative;
+    bottom: 20px;
+    /* background-image: rgb(8, 83, 126); */
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/nitro/Desktop_Background.png);
+    background-repeat: no-repeat;
+    background-size: cover!important;
+    width: 100%!important;
+    display: flex!important;
+    justify-content: center!important;
+    background-size: auto 544px;
+    background-position: bottom;
+    height: 467px;
+    padding-left: 500px;
+    padding-top: 350px;
+    padding-bottom: 250px;
+    flex-direction: column;
+    /* display: block; */
+}
+.image{
+    background-color: blue;
+
+}
+
+.mid{
+    display: ;
+}
+
+
+.bara-img{
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/better-with-pepsi/PEP_BWP_D.jpg);
+    
+    width: 100%;
+/* height: 100%; */
+background-size: cover;
+/* background-size: 114%; */
+/* background-position: -24% 0; */
+background-repeat: no-repeat;
+}
+.alpha-img{
+    position: relative;
+    right: 0px;
+    width: 100px;
+}
+
+.mango{
+    position: relative;
+    bottom: 20px;
+    background-color: blue;
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/pepsi-mango/bg-2-desktop@2x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.hero_video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover!important;
+}
+.video{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.hero_video-container{
+    position: relative;
+    bottom: 20px;
+}
+.promotion .promotion__title__line {
+    display: block;
+}
+
+.promotion{
+    position: relative;
+    bottom: 30px;
+    background-color: blue;
+    display: flex;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
